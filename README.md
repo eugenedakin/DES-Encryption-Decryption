@@ -23,3 +23,5 @@ Instructions:
 Remember to use the same 8-letter key when encrypting and decrypting
 
 The Module can be copied and pasted to use in your program
+
+An article was written in xDev (xdevmag.com) Issue 20.2 (March/April 2022) that describes the Xojo code.
