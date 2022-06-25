@@ -17,7 +17,7 @@ Code for this example is in the DESAlgorithm module which can encrypt text or de
 
 Instructions:
 1) Run the program in Xojo 2022 r1.1
-2) Add an 8-letter 64-bit key
+2) Add an 8-letter (64-bit) key
 3) Press Create to convert the 8-letter key to hexadecimal format
 4) Enter your text in the Clear Text TextArea Control
 5) Press Encrypt to use the DES Algorithm and the encoded text will appear in the control called DES Hex Encoded Message
