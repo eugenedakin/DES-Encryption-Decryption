@@ -10,7 +10,9 @@ Level: Advanced
 
 [![DES Encryption Teaser]([http://i.imgur.com/7YTMFQp.png](https://imgur.com/rfSbEkc))]([https://vimeo.com/3514904](https://www.youtube.com/watch?v=9bXYycvYvmE) "DES Encryption Teaser - Click to Watch!")
 
-[![DES Encryption Teaser]([https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y])]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=9bXYycvYvmE) "DES Encryption Teaser")
+[![DES Xojo Encryption](https://imgur.com/rfSbEkc)](https://www.youtube.com/channel/UCMLlY0SY3QEwlSsx4Q1zqiw "DES Xojo Encryption")
+
+
 
 Code for this example is in the DESAlgorithm module which can encrypt text or decrypt text using DES (Data Encryption Standard) Cryptography. 
 
