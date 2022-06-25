@@ -1,8 +1,8 @@
 # Xojo (formerly REALbasic and Real Studio)
 
-*.xojo_binary_project linguist-language=Xojo
-*.xojo_xml_project linguist-language=Xojo
-*.xojo_binary_code linguist-language=Xojo
+*.xojo_binary_project linguist-language=xojo
+*.xojo_xml_project linguist-language=xojo
+*.xojo_binary_code linguist-language=xojo
 
 Builds*
 *.debug
