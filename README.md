@@ -9,7 +9,7 @@ Level: Advanced
 ![](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESScreenGrab.png)
 
 
-![](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESEncryptionPreviewPic.png)
+[![DES Xojo Encryption](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESEncryptionPreviewPic.png)]
 
 
 Code for this example is in the DESAlgorithm module which can encrypt text or decrypt text using DES (Data Encryption Standard) Cryptography. 
