@@ -8,7 +8,6 @@ Level: Advanced
 
 ![](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESScreenGrab.png)
 
-[![DES Encryption Teaser]([http://i.imgur.com/7YTMFQp.png](https://imgur.com/rfSbEkc))]([https://vimeo.com/3514904](https://www.youtube.com/watch?v=9bXYycvYvmE) "DES Encryption Teaser - Click to Watch!")
 
 ![]([https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESEncryptionPreviewPic.png)
 
