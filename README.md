@@ -10,7 +10,7 @@ Level: Advanced
 
 Youtube video teaser.
 
-[![DES Xojo Encryption](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESEncryptionPreviewPict.png)](https://www.youtube.com/watch?v=9bXYycvYvmE)
+[![DES Xojo Encryption](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESEncryptionPict.png)](https://www.youtube.com/watch?v=9bXYycvYvmE)
 
 
 Code for this example is in the DESAlgorithm module which can encrypt text or decrypt text using DES (Data Encryption Standard) Cryptography. 
