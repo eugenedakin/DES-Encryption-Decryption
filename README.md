@@ -1,10 +1,10 @@
 # DES-Encryption-Decryption
 Encrypt and Decrypt text in Xojo using DES - Written in Native Xojo Language - Cross Platform
 
-Compatible OS's: All
-Xojo IDE: 2022 r1.1
-Xojo API: API 2
-Level: Advanced
+ - Compatible OS's: All
+ - Xojo IDE: 2022 r1.1
+ - Xojo API: API 2
+ - Level: Advanced
 
 ![](https://github.com/eugenedakin/DES-Encryption-Decryption/blob/main/DESScreenGrab.png)
 
@@ -26,6 +26,6 @@ Instructions:
 
 Remember to use the same 8-letter key when encrypting and decrypting
 
-The Module can be copied and pasted to use in your program
+The Module can be copied and pasted to use in your program. This is written in native Xojo code.
 
 An article was written in xDev (xdevmag.com) Issue 20.2 (March/April 2022) that describes the Xojo code.
