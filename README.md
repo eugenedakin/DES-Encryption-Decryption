@@ -1,5 +1,5 @@
 # DES-Encryption-Decryption
-Encrypt and Decrypt text in Xojo using DES - Written in Native Xojo Language - Cross Platform
+Encrypt and Decrypt text in Xojo using DES - Written in Native Xojo Language - Cross Platform - Code created from scratch and in Xojo code.
 
  - Compatible OS's: All
  - Xojo IDE: 2022 r1.1
